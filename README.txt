@@ -5,5 +5,7 @@ TAILWIND
 LIBRARY
 
 -Vite
--React
+-React && JS
+npm create vite@latest my-app
 -Tailwind
+npm install -D tailwindcss
