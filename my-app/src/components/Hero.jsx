@@ -4,7 +4,7 @@ import src from "../assets/react.svg";
 
 export function Hero() {
   return (
-    <section className="bg-blue-300 h-72 text-center ">
+    <section className="bg-blue-300 h-1/4 text-center ">
       <h3 className="text-5xl">Hero</h3>
       <section className="p-12 flex flex-row justify-between">
         <ImgFullHeigth src={src} alt="Immagine Pub" />
